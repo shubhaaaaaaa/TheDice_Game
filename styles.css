@@ -15,12 +15,12 @@ body {
 h1 {
   margin: 30px;
   font-family: 'Black Ops One';
-  font-size: 8rem;
+  font-size: 5rem;
   color: #EC8172;
 }
 
 h2 {
-  font-size: 3rem;
+  font-size: 2rem;
   font-family: 'Black Ops One';
 }
 
@@ -44,8 +44,12 @@ button{
   font-family: 'Black Ops One';
   background-color: #B4EEF5;
   color: #EC8172;
-  font-size: 2rem;
+  font-size: 1.5rem;
   padding: 8px;
+}
+
+button:hover{
+  opacity: 70%;
 }
 
 .button{

@@ -1,3 +1,4 @@
+window.addEventListener("load",function(){
 var player1 = prompt("Player 1's name : ");
 var player2 = prompt("Player 2's name : ");
 
@@ -20,12 +21,14 @@ button.onclick = function(){
     image2.setAttribute("src",imageSource2);
     
     if(randomNumber1 > randomNumber2){
-        document.querySelector("h1").innerHTML = player1.toUpperCase()+" wins ";
+        document.querySelector("h1").innerHTML = player1.toUpperCase()+" wins !!";
     }
     else if (randomNumber1 <randomNumber2){
-        document.querySelector("h1").innerHTML = player2.toUpperCase()+" wins "; 
+        document.querySelector("h1").innerHTML = player2.toUpperCase()+" wins !!"; 
     }
     else{
-        document.querySelector("h1").innerHTML = "Draw"; 
+        document.querySelector("h1").innerHTML = "Draw."; 
     }
 }
+
+});
