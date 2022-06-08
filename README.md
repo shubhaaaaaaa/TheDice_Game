@@ -1,3 +1,3 @@
 # TheDiceGame
-An ultimate game of dice which tests your luck and decides the winner.
+A game of dice which tests your luck and decides the ultimate winner.
 https://shubhaaaaaaa.github.io/TheDice_Game/
