@@ -2,7 +2,7 @@
 Test your luck and decide the ultimate winner.
 * Link to my dice game : https://shubhaaaaaaa.github.io/TheDice_Game/
 
-##Screenshots
+## Screenshots
 ![App Screenshot](https://github.com/shubhaaaaaaa/TheDice_Game/blob/main/images/Screenshot.png)
 
 ## Feedback
